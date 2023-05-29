@@ -14,7 +14,7 @@
   https://is-this-it.tistory.com
 
   <h3>Contact</h3> 
-  peacestrokes@gmail.com
+  <a rel="external" target="_blank" href="mailto:peacestrokes@gmail.com">peacestrokes@gmail.com</a>
 </section>
 
 <!--
